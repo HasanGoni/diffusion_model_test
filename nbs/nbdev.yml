@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "diffusion_model_test"
+  site-url: "https://HasanGoni.github.io/diffusion_model_test"
+  description: "Diffusion model test"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/diffusion_model_test"
